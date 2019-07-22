@@ -18,6 +18,7 @@
     - Fedora (COPR): `keefle/xst`
     - Gentoo (personal overlay): https://framagit.org/3/ebuilds
     - Void Linux: `xst`
+    - NixOS: `xst`
 
 Thanks to:
 
